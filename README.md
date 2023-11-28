@@ -1,14 +1,8 @@
 <h1>Clone of Domino's website</h1>
 <h2>My Fourth Project:</h2>
-Hello, My name is Priya Kesarwani. I am the student of Masai School. Currently I am in unit 7.
-
-We have been assigned to clone Domino- Website.
-
+Hello, My name is Rohit Kumar.
 Technologies used:
 In making this project, we used Nodejs, Expressjs, MongoDB, Html, Css, advanced JavaScript, React, Redux, Context API, Chakra UI and local storage.
-
-Task Assignment:
-We have assigned our tasks equally in the team.
 
 Home Page:
 In landing page there is one beautiful navbar and sidebar. sliding images are moving continuously. There is one footer section also.
